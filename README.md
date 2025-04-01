@@ -1,4 +1,4 @@
-This is a fork of the [Obsidian](https://github.com/gab8192/Obsidian/) chess engine, that I modified for a [competition](https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge) on Kaggle. My writeup is available [HERE](TODO).
+This is a fork of the [Obsidian](https://github.com/gab8192/Obsidian/) chess engine, that I modified for a [competition](https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge) on Kaggle. My writeup is available [HERE](https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge/discussion/571067).
 
 Compilation commands:
 ```bash
